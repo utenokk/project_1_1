@@ -1,0 +1,85 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    background-color: #F5F5F5;
+    width: 100%;
+}
+
+.cont{
+    margin: 0 auto;
+    width: 1400px;
+    background-color: white;
+    padding-left: 125px;
+}
+
+h1 {
+    color: #121212;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    padding-top: 128px;
+    margin-bottom: 30px;
+    letter-spacing: -1.8px;
+    margin-right: 319px;
+}
+.mi_com {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+h2 {
+    color: #121212;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 150px;
+}
+.studiya_osn {
+    color: var(--text, #121212);
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 224px;
+    letter-spacing: -1.35px;
+}
+
+.Wphoto{
+    width: 1150px;
+    height: 500px;
+    background-image: url(../расходники/наивысшеефото\ 1.png);
+}
+.Wtext{
+    padding-top: 379px;
+    padding-left: 40px;
+    padding-right: 680px;
+    padding-bottom: 40px;
+    letter-spacing: -0.6px;
+}
+
+.hr {
+    display: block;
+    height: 67px;
+    width: 255px;
+    border-radius: 5px;
+    background-color: #AD1818;
+    text-decoration: none;
+    text-align: center;
+    line-height: normal;
+}
+
+.hrtxt {
+    color: white;
+    text-decoration: none;
+    letter-spacing: -0.6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
